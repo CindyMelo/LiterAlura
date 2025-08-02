@@ -27,11 +27,4 @@ LiterAlura es una aplicación Java desarrollada con Spring Boot que consume la A
 - Logs SQL activados para facilitar el debug.
 - Variables de entorno para configuración de base de datos y conexión segura.
 
----
 
-## Configuración
-
-1. Crear la base de datos PostgreSQL (ejemplo con nombre `literalura`):
-
-```sql
-CREATE DATABASE literalura;
